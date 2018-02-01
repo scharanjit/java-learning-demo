@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/inspectionProfiles/
+
+/refactoring/refactoring.iml
+/multithreading/multithreading.iml
+/collections/collections.iml
+/collections/target/
+/.idea/
+/.idea/vcs.xml
+/.idea/modules.xml
+/.idea/compiler.xml
+/.idea/workspace.xml
